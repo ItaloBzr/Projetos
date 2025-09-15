@@ -5,8 +5,8 @@ lista = {}
 nomes = []
 senhas = []
 
-nomes = ['joao', 'maria']
-senhas = [111, 222]
+nomes = []
+senhas = []
 lista = {}
 
 def cls():
